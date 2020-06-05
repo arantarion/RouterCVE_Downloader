@@ -1,0 +1,4 @@
+ares==0.7.1
+requests==2.23.0
+urllib3==1.25.9
+
