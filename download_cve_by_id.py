@@ -5,6 +5,9 @@ import time
 import json
 
 # Version using the ares wrapper for Circl.lu
+THRESHOLD = 100
+SLEEPTIME = 30
+
 
 def showProgress(counter):
     os.system('clear')
@@ -12,7 +15,7 @@ def showProgress(counter):
     print(f"Remaining: {len(cveIdList.cves) - (counter)}")
 
     remaining = len(cveIdList.cves) - (counter)
-    print(f"Estimated waiting time: {remaining / 20 * 30} seconds / {remaining / 20 * 30 / 60} minutes")
+    print(f"Estimated waiting time: {remaining / 20 * SLEEPTIME} seconds / {remaining / THRESHOLD * SLEEPTIME / 60} minutes")
 
 
 def main():
@@ -41,9 +44,9 @@ def main():
 
         counter = counter + 1
 
-        if counter%20 == 0:
+        if counter%THRESHOLD == 0:
             showProgress(counter)
-            time.sleep(30)
+            time.sleep(SLEEPTIME)
 
 
 if __name__ == "__main__":
