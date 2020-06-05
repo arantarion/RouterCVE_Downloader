@@ -2,6 +2,12 @@ import re
 import requests
 import json
 
+# Henry Weckermann
+# Because the Circl.lu API does not allow direct search by vendor and product
+# I had to do it another way
+# This script downloades the whole html content of the cvedetail.com websites of specified products
+# and searches for the CVE IDs in them, appening them to a set.
+
 easy_cve = [
 'https://www.cvedetails.com/vulnerability-list/vendor_id-438/product_id-26769/Adtran-AOS.html',
 'https://www.cvedetails.com/vulnerability-list/vendor_id-218/product_id-50201/Alcatel-A30-Firmware.html',
@@ -27,22 +33,8 @@ easy_cve = [
 'https://www.cvedetails.com/vulnerability-list/vendor_id-874/product_id-26642/Juniper-Screenos.html'
 ]
 
+# Regex for finding CVEs in the received file
 p = re.compile('(CVE-(1999|2\d{3})-(0\d{2}[1-9]|[1-9]\d{3,}))')
-
-
-def search_cve(_cve):
-    """Simple CVE search"""
-    print "Searching: " + _cve
-    SEARCHURL = "http://cve.circl.lu/api/cve/" + _cve
-    r = requests.get(SEARCHURL)
-    if r.status_code != 200:
-        print("Something has gone horribly wrong.")
-        return 0
-    else:
-        data = json.loads(r.text)
-        print "Summary: " + data['summary']
-        print "CVSS Score: " + str(data['cvss'])
-        return data
 
 
 def step1():
@@ -90,27 +82,18 @@ def step2():
     return makeFlatList(cve_list)
 
 
-def step3(cves):
-
-    json_list = []
-
-    for cve in cves:
-        json_list.append(search_cve(cve))
-
-    return json_list
-
 def makeFlatList(liste):
     return list(set([item for sublist in liste for item in sublist]))
+
 
 if __name__ == '__main__':
     easy_list = step1()
     hard_list = step2()
 
-    print("Liste 1: ", easy_list)
-    print("Liste 2: ", hard_list, "\n\n\n\n")
-
     complete_list = easy_list + hard_list
 
-
-
-    #print(complete_list)
+    with open("cveIdList.py", "w") as file:
+        file.write('cves = [')
+        file.write(',\n'.join(complete_list))
+        file.write(']')
+    
