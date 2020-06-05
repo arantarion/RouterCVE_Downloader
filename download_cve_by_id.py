@@ -3,6 +3,7 @@ import cveIdList
 import os
 import time
 import json
+import platform
 
 # Version using the ares wrapper for Circl.lu
 THRESHOLD = 20
@@ -10,7 +11,10 @@ SLEEPTIME = 30
 
 
 def showProgress(counter):
-    os.system('clear')
+    if platform.system() == "Windows":
+        os.system('cls')
+    else:
+        os.system('clear')
     print(f"Downloaded {counter} CVEs")
     print(f"Remaining: {len(cveIdList.cves) - (counter)}")
 
