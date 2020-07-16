@@ -1,4 +1,7 @@
 ares==0.7.1
 requests==2.23.0
 urllib3==1.25.9
-
+nltk==3.5
+openpyxl==3.0.4
+pandas==1.0.5
+xlrd==1.2.0
