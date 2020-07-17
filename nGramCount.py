@@ -25,6 +25,7 @@ Outputs the 100 most used mono/bi/tri - grams
 
 
 def createSummaryTextFile():
+    import pandas as pd
     # read Excel file into DataFrame
     df = pd.read_excel('cve_compact.xlsx')
     text_list_old = []
@@ -76,6 +77,9 @@ def main():
     # Remove stopwords
     words = [word for word in words if word not in all_stopwords]
 
+    with open('text_clean.txt', 'w') as f:
+        for item in words:
+            f.write("%s\n" % item)
 
     #creating bigrams
     bgs = nltk.bigrams(words)
@@ -90,19 +94,20 @@ def main():
 
     # Output top 50 words
     print("Monograms")
-    for word, frequency in fdist.most_common(50):
+    for word, frequency in fdist.most_common(500):
         print(u'{} : {}'.format(word, frequency))
 
 
     print("\n\nBigrams")
-    for word, frequency in fdist_bgs.most_common(50):
+    for word, frequency in fdist_bgs.most_common(500):
         print(u'{} : {}'.format(word, frequency))
 
     print("\n\nnGrams")
-    for word, frequency in fdist_tgs.most_common(50):
+    for word, frequency in fdist_tgs.most_common(500):
         print(u'{} : {}'.format(word, frequency))
 
 
 if __name__ == "__main__":
+    #createSummaryTextFile()
     main()
 

@@ -1,0 +1,1507 @@
+Monograms
+prior : 878
+cisco : 768
+ios : 719
+versions : 666
+remote : 645
+service : 575
+device : 529
+denial : 511
+attackers : 504
+vulnerability : 430
+bug : 344
+attacker : 339
+aka : 336
+crafted : 302
+junos : 300
+series : 280
+srx : 278
+juniper : 275
+packets : 255
+reload : 239
+software : 205
+packet : 204
+exploit : 190
+issue : 184
+devices : 180
+networks : 176
+crash : 174
+condition : 153
+releases : 153
+ipv : 145
+memory : 142
+protocol : 131
+enabled : 127
+implementation : 120
+unspecified : 119
+arbitrary : 119
+sending : 116
+access : 106
+dos : 105
+configured : 103
+traffic : 102
+interface : 102
+unauthenticated : 101
+execute : 101
+code : 101
+vulnerabilities : 100
+feature : 93
+authenticated : 90
+malformed : 87
+users : 86
+snmp : 85
+http : 80
+user : 79
+process : 77
+firmware : 77
+network : 76
+daemon : 73
+ids : 72
+consumption : 70
+bgp : 69
+qfx : 69
+running : 68
+authentication : 66
+buffer : 65
+platforms : 65
+multiple : 64
+successful : 61
+message : 61
+version : 61
+request : 60
+overflow : 59
+local : 59
+server : 58
+command : 57
+restart : 57
+sip : 57
+earlier : 57
+routing : 56
+vectors : 55
+commands : 55
+bypass : 55
+parameter : 54
+tcp : 54
+products : 54
+configuration : 54
+port : 53
+routers : 53
+web : 53
+services : 51
+management : 51
+session : 50
+properly : 50
+router : 49
+specific : 48
+vulnerable : 46
+switches : 46
+d-link : 46
+firewall : 46
+rpd : 45
+trigger : 44
+control : 44
+messages : 43
+root : 42
+including : 41
+module : 40
+privileges : 39
+processing : 39
+catalyst : 39
+nat : 38
+leak : 38
+client : 38
+data : 37
+dhcp : 37
+address : 37
+cve-- : 37
+ikev : 37
+ssh : 36
+sensitive : 36
+vpn : 36
+udp : 34
+cross-site : 33
+engine : 33
+gain : 32
+shell : 32
+password : 32
+asus : 32
+result : 32
+subsystem : 31
+requests : 31
+functionality : 31
+improper : 31
+demonstrated : 29
+cpu : 29
+leading : 29
+multicast : 29
+inject : 29
+malicious : 28
+application : 28
+flowd : 28
+script : 28
+telnet : 28
+hang : 28
+scripting : 28
+rev : 28
+mpls : 28
+input : 27
+long : 27
+xss : 27
+string : 26
+layer : 26
+high : 26
+xsg : 26
+destined : 25
+queue : 25
+reboot : 25
+extended : 25
+function : 25
+lead : 25
+forwarding : 24
+dns : 24
+screenos : 24
+discovery : 24
+affect : 24
+read : 24
+component : 24
+administrator : 24
+receipt : 24
+cli : 23
+credentials : 23
+repeated : 23
+dhcpv : 23
+valid : 23
+login : 23
+handle : 23
+release : 23
+program : 23
+key : 23
+note : 22
+security : 22
+rt-acu : 22
+validation : 22
+support : 22
+adjacent : 22
+internal : 22
+ethernet : 22
+connection : 21
+causing : 21
+corruption : 21
+administrative : 21
+insufficient : 21
+html : 21
+vtp : 21
+energywise : 21
+virtual : 20
+domain : 20
+gateway : 20
+set : 20
+crashes : 20
+default : 20
+sequence : 20
+unified : 20
+manager : 20
+based : 20
+alg : 20
+ike : 20
+ex/vc : 20
+srxm : 20
+vsrx : 19
+processed : 19
+option : 19
+number : 19
+attack : 19
+link : 19
+mode : 19
+handling : 19
+j-web : 19
+discovered : 19
+switch : 19
+transit : 18
+occurs : 18
+large : 18
+attacks : 18
+previous : 18
+ipsec : 18
+install : 18
+nfx : 18
+sessions : 18
+update : 17
+mikrotik : 17
+file : 17
+kernel : 17
+rt-ac : 17
+switching : 17
+connections : 17
+action : 17
+autonomic : 17
+incorrect : 16
+files : 16
+secure : 16
+source : 16
+intended : 16
+filter : 16
+express : 16
+servers : 16
+test : 16
+execution : 15
+csrf : 15
+change : 15
+cscuy : 15
+routeros : 15
+configurations : 15
+tacacs+ : 15
+injection : 15
+fwwwb_hab_beta : 15
+parsing : 15
+specially : 15
+invalid : 15
+certificate : 15
+permissions : 15
+route : 15
+lsa : 15
+exists : 15
+wedge : 15
+internet : 15
+community : 15
+values : 14
+iox : 14
+impact : 14
+restrictions : 14
+cluster : 14
+communications : 14
+smart : 14
+netscreen : 14
+zone-based : 14
+ltp : 14
+operating : 14
+jdhcpd : 14
+error : 14
+networking : 14
+vlan : 14
+ldp : 14
+parameters : 13
+exhaustion : 13
+authorization : 13
+disclosure : 13
+environment : 13
+dir- : 13
+cscug : 13
+time : 13
+integrated : 13
+leveraging : 13
+outage : 13
+flood : 13
+type : 13
+modify : 13
+fwwwb : 13
+unaffected : 13
+pim : 13
+ports : 13
+console : 13
+industrial : 13
+forgery : 12
+administrators : 12
+tunnel : 12
+mac : 12
+flow : 12
+sustained : 12
+ssl : 12
+sccp : 12
+stack : 12
+path : 12
+content : 12
+chassis : 12
+ospf : 12
+failure : 12
+filters : 12
+cscve : 12
+lldp : 12
+check : 11
+cscur : 11
+rt-nu : 11
+ips : 11
+conduct : 11
+neighbor : 11
+relay : 11
+extreme : 11
+gateways : 11
+response : 11
+aaa : 11
+race : 11
+header : 11
+disabled : 11
+ex/ex : 11
+private : 11
+received : 11
+arp : 11
+options : 11
+cscts : 11
+interfaces : 11
+length : 11
+radius : 11
+ani : 11
+stack-based : 11
+pfe : 10
+elevated : 10
+occur : 10
+hijack : 10
+https : 10
+unauthorized : 10
+username : 10
+supervisor : 10
+rate : 10
+triggers : 10
+cscub : 10
+establishing : 10
+boot : 10
+mechanism : 10
+open : 10
+csctq : 10
+advertisement : 10
+operations : 10
+url : 10
+continuously : 10
+qfx/qfx : 10
+suite : 10
+fragmented : 10
+target : 10
+simple : 10
+isakmp : 10
+exchange : 10
+dynamic : 10
+cscto : 10
+translation : 10
+cscun : 10
+established : 10
+cip : 10
+redirect : 10
+commit : 10
+peer : 9
+level : 9
+circumstances : 9
+ftp : 9
+require : 9
+involving : 9
+assigned : 9
+subscriber : 9
+create : 9
+wireless : 9
+list : 9
+systems : 9
+perform : 9
+site : 9
+destination : 9
+man-in-the-middle : 9
+cscti : 9
+encryption : 9
+write : 9
+cscup : 9
+clients : 9
+reset : 9
+database : 9
+rsvp : 9
+qfxk : 9
+subsequent : 9
+host : 9
+image : 9
+resource : 9
+implementations : 9
+addresses : 9
+receiving : 9
+identifier : 9
+cscvc : 9
+remotely : 9
+loop : 9
+repeatedly : 9
+keyword : 9
+null : 9
+card : 9
+table : 9
+read-only : 8
+rules : 8
+attributes : 8
+cscux : 8
+icmp : 8
+belkin : 8
+bfd : 8
+cscvd : 8
+send : 8
+exploitation : 8
+cme : 8
+uri : 8
+cscuj : 8
+cve : 8
+cscuu : 8
+cscuz : 8
+directory : 8
+dirla_fwb : 8
+dsl- : 8
+xre : 8
+performing : 8
+implemented : 8
+updates : 8
+protection : 8
+explicitly : 8
+product : 8
+underlying : 8
+unknown : 8
+score : 8
+sxi : 8
+extension : 8
+tracking : 8
+directed : 8
+oids : 8
+considered : 8
+encrypted : 8
+csctr : 8
+proxy : 8
+graceful : 8
+common : 8
+csctz : 8
+csctj : 8
+guest : 8
+nbar : 8
+vpls : 8
+macsec : 8
+wwb : 8
+cscsz : 7
+arguments : 7
+csctf : 7
+socket : 7
+processes : 7
+enable : 7
+broadband : 7
+edge : 7
+bbe : 7
+phase : 7
+cscum : 7
+log : 7
+logging : 7
+duplicate : 7
+easier : 7
+metacharacters : 7
+buffers : 7
+segment : 7
+web-based : 7
+attempting : 7
+partition : 7
+overwrite : 7
+inspection : 7
+storm : 7
+active : 7
+processor : 7
+dlsw : 7
+exec : 7
+cscuo : 7
+diagnostics : 7
+cscul : 7
+callmanager : 7
+cucm : 7
+status : 7
+
+
+Bigrams
+('versions', 'prior') : 581
+('cisco', 'ios') : 575
+('denial', 'service') : 510
+('remote', 'attackers') : 480
+('prior', 'versions') : 376
+('attackers', 'denial') : 343
+('aka', 'bug') : 283
+('device', 'reload') : 191
+('prior', 'prior') : 186
+('juniper', 'networks') : 171
+('service', 'device') : 166
+('ios', 'remote') : 151
+('ios', 'software') : 146
+('srx', 'srx') : 128
+('series', 'versions') : 118
+('networks', 'junos') : 107
+('ios', 'ios') : 101
+('srx', 'series') : 99
+('dos', 'condition') : 92
+('implementation', 'cisco') : 91
+('releases', 'juniper') : 86
+('attacker', 'exploit') : 80
+('remote', 'attacker') : 79
+('juniper', 'junos') : 77
+('exploit', 'vulnerability') : 75
+('bug', 'ids') : 71
+('service', 'dos') : 69
+('prior', 'srx') : 69
+('packets', 'aka') : 69
+('exploit', 'attacker') : 68
+('junos', 'versions') : 67
+('execute', 'arbitrary') : 66
+('sending', 'crafted') : 65
+('unauthenticated', 'remote') : 61
+('cisco', 'bug') : 59
+('successful', 'exploit') : 57
+('software', 'cisco') : 53
+('vulnerability', 'cisco') : 53
+('arbitrary', 'code') : 51
+('enabled', 'remote') : 51
+('feature', 'cisco') : 51
+('buffer', 'overflow') : 50
+('reload', 'crafted') : 50
+('service', 'memory') : 48
+('memory', 'consumption') : 48
+('unspecified', 'vulnerability') : 47
+('ios', 'cisco') : 45
+('software', 'unauthenticated') : 44
+('remote', 'authenticated') : 44
+('device', 'crash') : 44
+('authenticated', 'users') : 43
+('prior', 'series') : 43
+('products', 'platforms') : 42
+('vulnerability', 'sending') : 39
+('networks', 'products') : 39
+('attacker', 'device') : 39
+('platforms', 'issue') : 37
+('memory', 'leak') : 36
+('exploit', 'vulnerabilities') : 36
+('junos', 'remote') : 35
+('reload', 'malformed') : 35
+('unspecified', 'vectors') : 34
+('users', 'denial') : 32
+('junos', 'prior') : 32
+('attackers', 'bypass') : 31
+('packet', 'aka') : 30
+('crash', 'restart') : 30
+('device', 'successful') : 30
+('condition', 'vulnerability') : 30
+('crash', 'crafted') : 28
+('rev', 'firmware') : 28
+('attackers', 'execute') : 27
+('series', 'devices') : 27
+('ipv', 'ipv') : 26
+('qfx', 'qfx') : 26
+('versions', 'including') : 26
+('releases', 'prior') : 25
+('local', 'users') : 24
+('process', 'crash') : 24
+('ios', 'earlier') : 24
+('consumption', 'device') : 24
+('authenticated', 'remote') : 23
+('ipv', 'packets') : 23
+('properly', 'handle') : 23
+('prior', 'qfx') : 23
+('condition', 'device') : 22
+('crafted', 'ipv') : 22
+('service', 'condition') : 22
+('junos', 'srx') : 22
+('qfx', 'series') : 22
+('traffic', 'aka') : 21
+('cross-site', 'scripting') : 21
+('device', 'vulnerability') : 21
+('rpd', 'process') : 21
+('subsystem', 'cisco') : 20
+('reload', 'denial') : 20
+('configured', 'remote') : 20
+('issue', 'releases') : 20
+('routers', 'firmware') : 20
+('functionality', 'cisco') : 20
+('including', 'prior') : 20
+('attackers', 'inject') : 19
+('web', 'script') : 19
+('script', 'html') : 19
+('series', 'switches') : 19
+('reload', 'device') : 19
+('overflow', 'condition') : 18
+('ios', 'properly') : 18
+('repeated', 'crashes') : 18
+('issue', 'juniper') : 18
+('scripting', 'xss') : 18
+('device', 'configured') : 18
+('d-link', 'rev') : 18
+('inject', 'arbitrary') : 18
+('arbitrary', 'web') : 18
+('crafted', 'packets') : 18
+('multiple', 'vulnerabilities') : 18
+('issue', 'discovered') : 18
+('adjacent', 'attacker') : 18
+('routing', 'protocol') : 18
+('packet', 'device') : 18
+('arbitrary', 'commands') : 17
+('message', 'aka') : 17
+('module', 'cisco') : 17
+('junos', 'releases') : 17
+('devices', 'remote') : 17
+('messages', 'aka') : 17
+('unauthenticated', 'adjacent') : 17
+('packets', 'attacker') : 17
+('memory', 'corruption') : 16
+('earlier', 'remote') : 16
+('extended', 'denial') : 16
+('condition', 'cisco') : 16
+('devices', 'running') : 16
+('discovery', 'protocol') : 16
+('daemon', 'crash') : 16
+('management', 'protocol') : 16
+('snmp', 'subsystem') : 16
+('snmp', 'version') : 16
+('xss', 'vulnerability') : 16
+('packets', 'destined') : 15
+('crafted', 'packet') : 15
+('execute', 'commands') : 15
+('server', 'cisco') : 15
+('firmware', 'fwwwb_hab_beta') : 15
+('malformed', 'packet') : 15
+('cisco', 'unified') : 15
+('specially', 'crafted') : 15
+('running', 'junos') : 15
+('vulnerability', 'improper') : 15
+('ex/vc', 'ex/vc') : 15
+('crafted', 'sip') : 15
+('attacker', 'denial') : 14
+('attacker', 'execute') : 14
+('mikrotik', 'routeros') : 14
+('http', 'server') : 14
+('crafted', 'http') : 14
+('cpu', 'consumption') : 14
+('service', 'crash') : 14
+('vulnerability', 'insufficient') : 14
+('series', 'prior') : 14
+('software', 'authenticated') : 14
+('devices', 'firmware') : 14
+('protocol', 'daemon') : 14
+('daemon', 'rpd') : 14
+('prior', 'nfx') : 14
+('prior', 'juniper') : 14
+('ipv', 'packet') : 14
+('ios', 'xsg') : 14
+('ios', 'unauthenticated') : 14
+('vulnerabilities', 'sending') : 14
+('vulnerabilities', 'snmp') : 14
+('xsg', 'remote') : 14
+('port', 'aka') : 14
+('destined', 'device') : 14
+('code', 'execution') : 13
+('vulnerability', 'cve--') : 13
+('management', 'interface') : 13
+('unified', 'communications') : 13
+('communications', 'manager') : 13
+('ikev', 'packets') : 13
+('cve--', 'cve--') : 13
+('previous', 'versions') : 13
+('firmware', 'fwwwb') : 13
+('fwwwb', 'devices') : 13
+('interface', 'queue') : 13
+('queue', 'wedge') : 13
+('leak', 'cisco') : 13
+('tcp', 'packets') : 13
+('cisco', 'catalyst') : 13
+('ipv', 'traffic') : 13
+('smart', 'install') : 13
+('autonomic', 'networking') : 13
+('device', 'attacker') : 12
+('cross-site', 'request') : 12
+('request', 'forgery') : 12
+('service', 'cpu') : 12
+('remote', 'unauthenticated') : 12
+('crafted', 'tcp') : 12
+('http', 'request') : 12
+('running', 'cisco') : 12
+('attacker', 'gain') : 12
+('reload', 'dos') : 12
+('cisco', 'devices') : 12
+('result', 'extended') : 12
+('device', 'exploit') : 12
+('jdhcpd', 'daemon') : 12
+('community', 'string') : 12
+('issue', 'affect') : 12
+('discovered', 'd-link') : 12
+('udp', 'packets') : 12
+('packets', 'device') : 11
+('access', 'device') : 11
+('forgery', 'csrf') : 11
+('access', 'control') : 11
+('command', 'injection') : 11
+('bypass', 'intended') : 11
+('prior', 'cisco') : 11
+('firmware', 'remote') : 11
+('component', 'cisco') : 11
+('zone-based', 'firewall') : 11
+('race', 'condition') : 11
+('attackers', 'sensitive') : 11
+('bypass', 'authentication') : 11
+('snmp', 'packet') : 11
+('service', 'interface') : 11
+('application', 'layer') : 11
+('high', 'cpu') : 11
+('catalyst', 'series') : 11
+('bug', 'cscts') : 11
+('execute', 'code') : 11
+('vulnerability', 'implementation') : 11
+('reload', 'sending') : 11
+('sip', 'message') : 11
+('elevated', 'privileges') : 10
+('udp', 'port') : 10
+('users', 'gain') : 10
+('nat', 'implementation') : 10
+('transit', 'traffic') : 10
+('bgp', 'update') : 10
+('series', 'routers') : 10
+('leading', 'denial') : 10
+('ios', 'catalyst') : 10
+('supervisor', 'engine') : 10
+('service', 'vulnerability') : 10
+('code', 'cisco') : 10
+('reload', 'vulnerability') : 10
+('reload', 'hang') : 10
+('large', 'number') : 10
+('consumption', 'crafted') : 10
+('authenticated', 'local') : 10
+('local', 'attacker') : 10
+('input', 'validation') : 10
+('bug', 'cscub') : 10
+('software', 'attacker') : 10
+('attacker', 'trigger') : 10
+('release', 'cisco') : 10
+('network', 'traffic') : 10
+('malformed', 'sip') : 10
+('fwwwb_hab_beta', 'rev') : 10
+('process', 'causing') : 10
+('prior', 'qfx/qfx') : 10
+('prior', 'ex/ex') : 10
+('multiple', 'unspecified') : 10
+('firmware', 'earlier') : 10
+('test', 'suite') : 10
+('switches', 'remote') : 10
+('vulnerability', 'exists') : 10
+('firewall', 'filter') : 10
+('crafted', 'bgp') : 10
+('stack-based', 'buffer') : 10
+('srx', 'srxm') : 10
+('srxm', 'srxm') : 10
+('srxm', 'srx') : 10
+('srx', 'vsrx') : 10
+('packets', 'processed') : 9
+('gain', 'privileges') : 9
+('restart', 'crafted') : 9
+('series', 'device') : 9
+('bug', 'cscur') : 9
+('catalyst', 'switches') : 9
+('d-link', 'dir-') : 9
+('bug', 'cscuy') : 9
+('attacker', 'access') : 9
+('access', 'sensitive') : 9
+('configuration', 'program') : 9
+('vulnerabilities', 'affect') : 9
+('sip', 'implementation') : 9
+('bug', 'csctq') : 9
+('crafted', 'snmp') : 9
+('remote', 'code') : 9
+('continuously', 'sending') : 9
+('crash', 'rpd') : 9
+('prior', 'qfxk') : 9
+('device', 'reboot') : 9
+('simple', 'network') : 9
+('network', 'management') : 9
+('protocol', 'snmp') : 9
+('xsg', 'xsg') : 9
+('internet', 'key') : 9
+('key', 'exchange') : 9
+('ids', 'cscvc') : 9
+('vulnerable', 'cisco') : 9
+('asus', 'rt-ac') : 9
+('attacker', 'buffer') : 9
+('rpd', 'daemon') : 9
+('layer', 'gateway') : 9
+('processed', 'device') : 8
+('commands', 'root') : 8
+('control', 'protocol') : 8
+('attackers', 'hijack') : 8
+('hijack', 'authentication') : 8
+('ios', 'nat') : 8
+('flowd', 'process') : 8
+('series', 'juniper') : 8
+('web', 'interface') : 8
+('service', 'module') : 8
+('asus', 'rt-acu') : 8
+('code', 'crafted') : 8
+('firmware', 'version') : 8
+('integrated', 'services') : 8
+('device', 'hang') : 8
+('express', 'cme') : 8
+('html', 'unspecified') : 8
+('sending', 'malformed') : 8
+('subsystem', 'software') : 8
+('software', 'release') : 8
+('bug', 'cscti') : 8
+('attackers', 'read') : 8
+('users', 'execute') : 8
+('protocol', 'implementation') : 8
+('dirla_fwb', 'previous') : 8
+('sip', 'messages') : 8
+('bug', 'cscup') : 8
+('d-link', 'dsl-') : 8
+('condition', 'issue') : 8
+('packet', 'processing') : 8
+('junos', 'device') : 8
+('vulnerability', 'releases') : 8
+('issue', 'devices') : 8
+('unaffected', 'vulnerability') : 8
+('subsequent', 'releases') : 8
+('root', 'privileges') : 8
+('crafted', 'dhcpv') : 8
+('device', 'restart') : 8
+('exchange', 'version') : 8
+('version', 'ikev') : 8
+('packets', 'trigger') : 8
+('remotely', 'execute') : 8
+('attacker', 'user') : 8
+('user', 'credentials') : 8
+('ids', 'cscve') : 8
+('bug', 'csctr') : 8
+('tcp', 'port') : 8
+('j-web', 'juniper') : 8
+('bug', 'cscto') : 8
+('sustained', 'denial') : 8
+('graceful', 'restart') : 8
+('attacker', 'repeatedly') : 8
+('repeatedly', 'crash') : 8
+('authenticated', 'user') : 8
+('qfx', 'versions') : 8
+('device', 'releases') : 8
+('dns', 'packets') : 8
+('condition', 'reload') : 8
+('device', 'leading') : 8
+('crafted', 'energywise') : 8
+('energywise', 'packets') : 8
+('trigger', 'vulnerabilities') : 8
+('vulnerability', 'incorrect') : 7
+('cli', 'commands') : 7
+('root', 'user') : 7
+('routing', 'process') : 7
+('feature', 'set') : 7
+('bug', 'cscux') : 7
+('attacker', 'crash') : 7
+('bug', 'cscum') : 7
+('mac', 'address') : 7
+('shell', 'metacharacters') : 7
+('rt-ac', 'devices') : 7
+('srx', 'devices') : 7
+('unauthenticated', 'user') : 7
+('routers', 'running') : 7
+('neighbor', 'discovery') : 7
+('crash', 'malformed') : 7
+('scripting', 'vulnerability') : 7
+('action', 'configuration') : 7
+('condition', 'vulnerabilities') : 7
+('arbitrary', 'files') : 7
+('vectors', 'aka') : 7
+('juniper', 'netscreen') : 7
+('networks', 'screenos') : 7
+('switches', 'unauthenticated') : 7
+('malformed', 'packets') : 7
+('services', 'gateways') : 7
+('dsl-', 'devices') : 7
+('bug', 'cscul') : 7
+('daemon', 'result') : 7
+('prior', 'junos') : 7
+('packet', 'attacker') : 7
+('prior', 'vulnerability') : 7
+('routers', 'remote') : 7
+('service', 'execute') : 7
+('running', 'vulnerable') : 7
+('vulnerable', 'release') : 7
+('cisco', 'series') : 7
+('assigned', 'cve') : 7
+('ios', 'multiple') : 7
+('vulnerabilities', 'authenticated') : 7
+('attacker', 'remotely') : 7
+('code', 'reload') : 7
+('reload', 'attacker') : 7
+('packet', 'ipv') : 7
+('traffic', 'directed') : 7
+('directed', 'exploit') : 7
+('vulnerabilities', 'vulnerabilities') : 7
+('vulnerabilities', 'buffer') : 7
+('condition', 'snmp') : 7
+('software', 'vulnerabilities') : 7
+('affect', 'versions') : 7
+('versions', 'snmp') : 7
+('snmp', 'versions') : 7
+('versions', 'exploit') : 7
+('version', 'earlier') : 7
+('earlier', 'attacker') : 7
+('attacker', 'snmp') : 7
+('snmp', 'read-only') : 7
+('read-only', 'community') : 7
+('string', 'exploit') : 7
+('version', 'attacker') : 7
+('credentials', 'devices') : 7
+('devices', 'enabled') : 7
+('enabled', 'snmp') : 7
+('snmp', 'explicitly') : 7
+('explicitly', 'excluded') : 7
+('excluded', 'mibs') : 7
+('mibs', 'oids') : 7
+('oids', 'considered') : 7
+('considered', 'vulnerable') : 7
+('feature', 'enabled') : 7
+('service', 'flowd') : 7
+('flowd', 'crash') : 7
+('devices', 'configured') : 7
+('dir-', 'devices') : 7
+('receipt', 'crafted') : 7
+('bug', 'cscun') : 7
+('routing', 'engine') : 7
+('parsing', 'crafted') : 7
+('cisco', 'discovery') : 7
+('networking', 'infrastructure') : 7
+('infrastructure', 'ani') : 7
+('requests', 'aka') : 7
+('alg', 'enabled') : 7
+('privileges', 'device') : 7
+('improper', 'parsing') : 7
+('series', 'series') : 7
+('affect', 'junos') : 7
+('vsrx', 'versions') : 7
+('non-srx', 'series') : 7
+('series', 'srx') : 7
+('catalyst', 'supervisor') : 7
+('engine', 'catalyst') : 7
+('bug', 'cscsz') : 6
+('vulnerability', 'nat') : 6
+('protocol', 'sip') : 6
+('authentication', 'administrators') : 6
+('nat', 'remote') : 6
+('service', 'crafted') : 6
+('issue', 'occurs') : 6
+('junos', 'configured') : 6
+('broadband', 'edge') : 6
+('service', 'kernel') : 6
+('access', 'restrictions') : 6
+('crash', 'large') : 6
+('http', 'traffic') : 6
+('attacker', 'conduct') : 6
+('diagnostic', 'shell') : 6
+('vulnerability', 'asus') : 6
+('outage', 'crafted') : 6
+('bug', 'cscuj') : 6
+('device', 'device') : 6
+('csrf', 'vulnerability') : 6
+('bug', 'cscuu') : 6
+('dhcpv', 'packet') : 6
+('cross', 'site') : 6
+('site', 'scripting') : 6
+('running', 'screenos') : 6
+('series', 'services') : 6
+('crafted', 'dns') : 6
+('versions', 'remote') : 6
+('bgp', 'routing') : 6
+('networks', 'srx') : 6
+('flowd', 'daemon') : 6
+('improper', 'handling') : 6
+('including', 'versions') : 6
+('ikev', 'implementation') : 6
+('ios', 'local') : 6
+('easier', 'remote') : 6
+('junos', 'devices') : 6
+('network', 'based') : 6
+
+
+nGrams
+('prior', 'versions', 'prior') : 365
+('versions', 'prior', 'versions') : 364
+('attackers', 'denial', 'service') : 343
+('remote', 'attackers', 'denial') : 340
+('denial', 'service', 'device') : 166
+('prior', 'prior', 'prior') : 158
+('ios', 'remote', 'attackers') : 137
+('cisco', 'ios', 'software') : 134
+('service', 'device', 'reload') : 119
+('series', 'versions', 'prior') : 117
+('juniper', 'networks', 'junos') : 107
+('cisco', 'ios', 'remote') : 103
+('srx', 'srx', 'srx') : 100
+('cisco', 'ios', 'ios') : 96
+('implementation', 'cisco', 'ios') : 87
+('releases', 'juniper', 'networks') : 86
+('denial', 'service', 'dos') : 68
+('packets', 'aka', 'bug') : 67
+('attacker', 'exploit', 'vulnerability') : 65
+('networks', 'junos', 'versions') : 59
+('junos', 'versions', 'prior') : 59
+('service', 'dos', 'condition') : 58
+('unauthenticated', 'remote', 'attacker') : 57
+('prior', 'srx', 'series') : 54
+('successful', 'exploit', 'attacker') : 51
+('versions', 'prior', 'srx') : 51
+('ios', 'software', 'cisco') : 50
+('device', 'reload', 'crafted') : 49
+('enabled', 'remote', 'attackers') : 49
+('feature', 'cisco', 'ios') : 49
+('execute', 'arbitrary', 'code') : 48
+('cisco', 'bug', 'ids') : 48
+('denial', 'service', 'memory') : 48
+('software', 'cisco', 'ios') : 45
+('srx', 'series', 'versions') : 45
+('ios', 'software', 'unauthenticated') : 44
+('service', 'memory', 'consumption') : 44
+('cisco', 'ios', 'cisco') : 43
+('remote', 'authenticated', 'users') : 42
+('ios', 'ios', 'remote') : 41
+('exploit', 'vulnerability', 'sending') : 39
+('juniper', 'networks', 'products') : 39
+('networks', 'products', 'platforms') : 38
+('attacker', 'device', 'reload') : 37
+('products', 'platforms', 'issue') : 36
+('vulnerability', 'cisco', 'ios') : 34
+('device', 'reload', 'malformed') : 34
+('versions', 'prior', 'series') : 34
+('software', 'unauthenticated', 'remote') : 32
+('users', 'denial', 'service') : 32
+('service', 'device', 'crash') : 31
+('device', 'successful', 'exploit') : 30
+('dos', 'condition', 'vulnerability') : 30
+('prior', 'series', 'versions') : 29
+('remote', 'attackers', 'bypass') : 28
+('packet', 'aka', 'bug') : 26
+('junos', 'remote', 'attackers') : 25
+('authenticated', 'users', 'denial') : 25
+('juniper', 'junos', 'remote') : 25
+('vulnerability', 'sending', 'crafted') : 25
+('remote', 'attackers', 'execute') : 24
+('attackers', 'execute', 'arbitrary') : 24
+('networks', 'junos', 'prior') : 24
+('unspecified', 'vulnerability', 'cisco') : 23
+('aka', 'bug', 'ids') : 23
+('denial', 'service', 'condition') : 22
+('memory', 'consumption', 'device') : 22
+('traffic', 'aka', 'bug') : 21
+('junos', 'prior', 'prior') : 21
+('exploit', 'attacker', 'device') : 21
+('subsystem', 'cisco', 'ios') : 20
+('authenticated', 'remote', 'attacker') : 20
+('srx', 'series', 'devices') : 20
+('reload', 'denial', 'service') : 20
+('ios', 'cisco', 'ios') : 20
+('functionality', 'cisco', 'ios') : 20
+('versions', 'prior', 'qfx') : 20
+('versions', 'including', 'prior') : 20
+('cisco', 'ios', 'earlier') : 19
+('web', 'script', 'html') : 19
+('issue', 'releases', 'juniper') : 19
+('cross-site', 'scripting', 'xss') : 18
+('d-link', 'rev', 'firmware') : 18
+('remote', 'attackers', 'inject') : 18
+('inject', 'arbitrary', 'web') : 18
+('arbitrary', 'web', 'script') : 18
+('consumption', 'device', 'reload') : 18
+('buffer', 'overflow', 'condition') : 17
+('message', 'aka', 'bug') : 17
+('juniper', 'junos', 'srx') : 17
+('configured', 'remote', 'attackers') : 17
+('unauthenticated', 'adjacent', 'attacker') : 17
+('extended', 'denial', 'service') : 16
+('remote', 'attacker', 'device') : 16
+('device', 'reload', 'denial') : 16
+('attackers', 'inject', 'arbitrary') : 16
+('dos', 'condition', 'device') : 15
+('process', 'crash', 'restart') : 15
+('execute', 'arbitrary', 'commands') : 15
+('module', 'cisco', 'ios') : 15
+('devices', 'remote', 'attackers') : 15
+('rev', 'firmware', 'fwwwb_hab_beta') : 15
+('dos', 'condition', 'cisco') : 15
+('junos', 'srx', 'series') : 15
+('attacker', 'denial', 'service') : 14
+('earlier', 'remote', 'attackers') : 14
+('server', 'cisco', 'ios') : 14
+('ios', 'software', 'authenticated') : 14
+('issue', 'juniper', 'networks') : 14
+('prior', 'juniper', 'networks') : 14
+('packets', 'attacker', 'exploit') : 14
+('attacker', 'exploit', 'vulnerabilities') : 14
+('exploit', 'vulnerabilities', 'sending') : 14
+('vulnerabilities', 'sending', 'crafted') : 14
+('exploit', 'vulnerabilities', 'snmp') : 14
+('vulnerabilities', 'snmp', 'version') : 14
+('xsg', 'remote', 'attackers') : 14
+('prior', 'qfx', 'series') : 14
+('port', 'aka', 'bug') : 14
+('denial', 'service', 'crash') : 13
+('unified', 'communications', 'manager') : 13
+('rev', 'firmware', 'fwwwb') : 13
+('firmware', 'fwwwb', 'devices') : 13
+('memory', 'leak', 'cisco') : 13
+('routing', 'protocol', 'daemon') : 13
+('cisco', 'ios', 'unauthenticated') : 13
+('ios', 'unauthenticated', 'remote') : 13
+('scripting', 'xss', 'vulnerability') : 13
+('qfx', 'qfx', 'qfx') : 13
+('qfx', 'series', 'versions') : 13
+('cross-site', 'request', 'forgery') : 12
+('denial', 'service', 'cpu') : 12
+('service', 'cpu', 'consumption') : 12
+('ios', 'remote', 'authenticated') : 12
+('junos', 'releases', 'prior') : 12
+('platforms', 'issue', 'releases') : 12
+('reload', 'dos', 'condition') : 12
+('interface', 'queue', 'wedge') : 12
+('protocol', 'daemon', 'rpd') : 12
+('rpd', 'process', 'crash') : 12
+('versions', 'prior', 'nfx') : 12
+('ios', 'ios', 'xsg') : 12
+('software', 'unauthenticated', 'adjacent') : 12
+('issue', 'discovered', 'd-link') : 12
+('packets', 'destined', 'device') : 12
+('device', 'attacker', 'exploit') : 11
+('request', 'forgery', 'csrf') : 11
+('cisco', 'ios', 'properly') : 11
+('ios', 'ios', 'software') : 11
+('component', 'cisco', 'ios') : 11
+('messages', 'aka', 'bug') : 11
+('remote', 'attackers', 'sensitive') : 11
+('daemon', 'rpd', 'process') : 11
+('aka', 'bug', 'cscts') : 11
+('leak', 'cisco', 'ios') : 11
+('device', 'reload', 'sending') : 11
+('remote', 'attacker', 'denial') : 10
+('nat', 'implementation', 'cisco') : 10
+('leading', 'denial', 'service') : 10
+('cisco', 'ios', 'catalyst') : 10
+('denial', 'service', 'vulnerability') : 10
+('prior', 'cisco', 'ios') : 10
+('running', 'cisco', 'ios') : 10
+('condition', 'cisco', 'bug') : 10
+('authenticated', 'local', 'attacker') : 10
+('ios', 'cisco', 'unified') : 10
+('cisco', 'unified', 'communications') : 10
+('aka', 'bug', 'cscub') : 10
+('software', 'attacker', 'exploit') : 10
+('result', 'extended', 'denial') : 10
+('firmware', 'fwwwb_hab_beta', 'rev') : 10
+('fwwwb_hab_beta', 'rev', 'firmware') : 10
+('versions', 'prior', 'qfx/qfx') : 10
+('versions', 'prior', 'ex/ex') : 10
+('routers', 'firmware', 'earlier') : 10
+('catalyst', 'series', 'switches') : 10
+('ex/vc', 'ex/vc', 'ex/vc') : 10
+('srx', 'srx', 'srxm') : 10
+('srx', 'srxm', 'srxm') : 10
+('srxm', 'srxm', 'srx') : 10
+('srxm', 'srx', 'srx') : 10
+('srx', 'srx', 'vsrx') : 10
+('attacker', 'execute', 'arbitrary') : 9
+('users', 'gain', 'privileges') : 9
+('aka', 'bug', 'cscuy') : 9
+('device', 'crash', 'crafted') : 9
+('code', 'cisco', 'ios') : 9
+('device', 'reload', 'vulnerability') : 9
+('device', 'reload', 'hang') : 9
+('condition', 'device', 'vulnerability') : 9
+('firmware', 'remote', 'attackers') : 9
+('aka', 'bug', 'csctq') : 9
+('attackers', 'bypass', 'authentication') : 9
+('crafted', 'snmp', 'packet') : 9
+('remote', 'code', 'execution') : 9
+('denial', 'service', 'interface') : 9
+('versions', 'prior', 'qfxk') : 9
+('versions', 'prior', 'juniper') : 9
+('switches', 'remote', 'attackers') : 9
+('simple', 'network', 'management') : 9
+('network', 'management', 'protocol') : 9
+('management', 'protocol', 'snmp') : 9
+('internet', 'key', 'exchange') : 9
+('bug', 'ids', 'cscvc') : 9
+('device', 'vulnerability', 'improper') : 9
+('attacker', 'buffer', 'overflow') : 9
+('application', 'layer', 'gateway') : 9
+('including', 'prior', 'versions') : 9
+('local', 'users', 'gain') : 8
+('remote', 'attackers', 'hijack') : 8
+('cisco', 'ios', 'nat') : 8
+('series', 'juniper', 'networks') : 8
+('aka', 'bug', 'cscur') : 8
+('attackers', 'bypass', 'intended') : 8
+('arbitrary', 'code', 'crafted') : 8
+('script', 'html', 'unspecified') : 8
+('aka', 'bug', 'cscti') : 8
+('dirla_fwb', 'previous', 'versions') : 8
+('sip', 'implementation', 'cisco') : 8
+('sip', 'messages', 'aka') : 8
+('aka', 'bug', 'cscup') : 8
+('ios', 'earlier', 'remote') : 8
+('prior', 'series', 'prior') : 8
+('sending', 'crafted', 'snmp') : 8
+('service', 'interface', 'queue') : 8
+('protocol', 'snmp', 'subsystem') : 8
+('snmp', 'subsystem', 'cisco') : 8
+('vulnerability', 'cisco', 'devices') : 8
+('release', 'cisco', 'ios') : 8
+('key', 'exchange', 'version') : 8
+('exchange', 'version', 'ikev') : 8
+('remotely', 'execute', 'code') : 8
+('vulnerable', 'cisco', 'bug') : 8
+('bug', 'ids', 'cscve') : 8
+('ios', 'xsg', 'remote') : 8
+('aka', 'bug', 'csctr') : 8
+('aka', 'bug', 'cscto') : 8
+('sustained', 'denial', 'service') : 8
+('device', 'reload', 'dos') : 8
+('attacker', 'repeatedly', 'crash') : 8
+('stack-based', 'buffer', 'overflow') : 8
+('prior', 'versions', 'including') : 8
+('overflow', 'condition', 'reload') : 8
+('condition', 'reload', 'device') : 8
+('reload', 'device', 'leading') : 8
+('crafted', 'energywise', 'packets') : 8
+('attackers', 'hijack', 'authentication') : 7
+('aka', 'bug', 'cscux') : 7
+('srx', 'series', 'device') : 7
+('aka', 'bug', 'cscum') : 7
+('software', 'authenticated', 'local') : 7
+('html', 'unspecified', 'vectors') : 7
+('action', 'configuration', 'program') : 7
+('devices', 'firmware', 'remote') : 7
+('dos', 'condition', 'vulnerabilities') : 7
+('cisco', 'devices', 'running') : 7
+('ios', 'software', 'release') : 7
+('juniper', 'networks', 'screenos') : 7
+('local', 'users', 'denial') : 7
+('remote', 'attackers', 'read') : 7
+('d-link', 'dsl-', 'devices') : 7
+('aka', 'bug', 'cscul') : 7
+('crash', 'rpd', 'process') : 7
+('rpd', 'process', 'causing') : 7
+('vulnerability', 'releases', 'juniper') : 7
+('software', 'authenticated', 'remote') : 7
+('ipv', 'packets', 'aka') : 7
+('denial', 'service', 'execute') : 7
+('service', 'execute', 'arbitrary') : 7
+('running', 'vulnerable', 'release') : 7
+('vulnerable', 'release', 'cisco') : 7
+('cisco', 'catalyst', 'series') : 7
+('condition', 'vulnerability', 'cisco') : 7
+('ios', 'ios', 'multiple') : 7
+('ios', 'multiple', 'vulnerabilities') : 7
+('multiple', 'vulnerabilities', 'authenticated') : 7
+('vulnerabilities', 'authenticated', 'remote') : 7
+('remote', 'attacker', 'remotely') : 7
+('attacker', 'remotely', 'execute') : 7
+('execute', 'code', 'reload') : 7
+('code', 'reload', 'attacker') : 7
+('reload', 'attacker', 'exploit') : 7
+('snmp', 'packet', 'ipv') : 7
+('packet', 'ipv', 'ipv') : 7
+('ipv', 'ipv', 'traffic') : 7
+('ipv', 'traffic', 'directed') : 7
+('traffic', 'directed', 'exploit') : 7
+('directed', 'exploit', 'vulnerabilities') : 7
+('exploit', 'vulnerabilities', 'vulnerabilities') : 7
+('vulnerabilities', 'vulnerabilities', 'buffer') : 7
+('vulnerabilities', 'buffer', 'overflow') : 7
+('overflow', 'condition', 'snmp') : 7
+('condition', 'snmp', 'subsystem') : 7
+('snmp', 'subsystem', 'software') : 7
+('subsystem', 'software', 'vulnerabilities') : 7
+('software', 'vulnerabilities', 'affect') : 7
+('vulnerabilities', 'affect', 'versions') : 7
+('affect', 'versions', 'snmp') : 7
+('versions', 'snmp', 'versions') : 7
+('snmp', 'versions', 'exploit') : 7
+('versions', 'exploit', 'vulnerabilities') : 7
+('snmp', 'version', 'earlier') : 7
+('version', 'earlier', 'attacker') : 7
+('earlier', 'attacker', 'snmp') : 7
+('attacker', 'snmp', 'read-only') : 7
+('snmp', 'read-only', 'community') : 7
+('read-only', 'community', 'string') : 7
+('community', 'string', 'exploit') : 7
+('string', 'exploit', 'vulnerabilities') : 7
+('snmp', 'version', 'attacker') : 7
+('version', 'attacker', 'user') : 7
+('attacker', 'user', 'credentials') : 7
+('user', 'credentials', 'devices') : 7
+('credentials', 'devices', 'enabled') : 7
+('devices', 'enabled', 'snmp') : 7
+('enabled', 'snmp', 'explicitly') : 7
+('snmp', 'explicitly', 'excluded') : 7
+('explicitly', 'excluded', 'mibs') : 7
+('excluded', 'mibs', 'oids') : 7
+('mibs', 'oids', 'considered') : 7
+('oids', 'considered', 'vulnerable') : 7
+('considered', 'vulnerable', 'cisco') : 7
+('j-web', 'juniper', 'junos') : 7
+('denial', 'service', 'flowd') : 7
+('device', 'exploit', 'attacker') : 7
+('d-link', 'dir-', 'devices') : 7
+('aka', 'bug', 'cscun') : 7
+('crafted', 'tcp', 'packets') : 7
+('qfx', 'versions', 'prior') : 7
+('sip', 'message', 'aka') : 7
+('cisco', 'discovery', 'protocol') : 7
+('autonomic', 'networking', 'infrastructure') : 7
+('networking', 'infrastructure', 'ani') : 7
+('memory', 'consumption', 'crafted') : 7
+('destined', 'device', 'attacker') : 7
+('crafted', 'ipv', 'packet') : 7
+('issue', 'affect', 'junos') : 7
+('srx', 'vsrx', 'versions') : 7
+('non-srx', 'series', 'srx') : 7
+('series', 'srx', 'srx') : 7
+('catalyst', 'supervisor', 'engine') : 7
+('supervisor', 'engine', 'catalyst') : 7
+('exploit', 'attacker', 'execute') : 6
+('aka', 'bug', 'cscsz') : 6
+('unspecified', 'vulnerability', 'nat') : 6
+('hijack', 'authentication', 'administrators') : 6
+('nat', 'remote', 'attackers') : 6
+('denial', 'service', 'crafted') : 6
+('remote', 'attacker', 'crash') : 6
+('ios', 'catalyst', 'switches') : 6
+('denial', 'service', 'kernel') : 6
+('remote', 'unauthenticated', 'user') : 6
+('sending', 'crafted', 'http') : 6
+('crafted', 'http', 'request') : 6
+('device', 'vulnerability', 'insufficient') : 6
+('aka', 'bug', 'cscuj') : 6
+('forgery', 'csrf', 'vulnerability') : 6
+('cross', 'site', 'scripting') : 6
+('vulnerability', 'cve--', 'cve--') : 6
+('srx', 'series', 'services') : 6
+('series', 'services', 'gateways') : 6
+('versions', 'remote', 'attackers') : 6
+('juniper', 'networks', 'srx') : 6
+('service', 'condition', 'issue') : 6
+('series', 'prior', 'series') : 6
+('http', 'server', 'cisco') : 6
+('ios', 'local', 'users') : 6
+('easier', 'remote', 'attackers') : 6
+('aka', 'bug', 'cscth') : 6
+('prolonged', 'denial', 'service') : 6
+('prior', 'qfx/qfx', 'series') : 6
+('qfx/qfx', 'series', 'versions') : 6
+('prior', 'qfxk', 'series') : 6
+('qfxk', 'series', 'versions') : 6
+('prior', 'nfx', 'series') : 6
+('nfx', 'series', 'versions') : 6
+('prior', 'ex/ex', 'series') : 6
+('lead', 'remote', 'code') : 6
+('devices', 'running', 'junos') : 6
+('issue', 'internal', 'product') : 6
+('internal', 'product', 'security') : 6
+('product', 'security', 'testing') : 6
+('routers', 'remote', 'attackers') : 6
+('service', 'device', 'restart') : 6
+('users', 'execute', 'arbitrary') : 6
+('cisco', 'ios', 'sxi') : 6
+('note', 'disclosure', 'vague') : 6
+('disclosure', 'vague', 'pre-advisory') : 6
+('vague', 'pre-advisory', 'actionable') : 6
+('pre-advisory', 'actionable', 'well-known') : 6
+('actionable', 'well-known', 'researcher') : 6
+('well-known', 'researcher', 'assigned') : 6
+('researcher', 'assigned', 'cve') : 6
+('assigned', 'cve', 'identifier') : 6
+('cve', 'identifier', 'tracking') : 6
+('identifier', 'tracking', 'purposes') : 6
+('ios', 'xsg', 'xsg') : 6
+('vulnerability', 'exists', 'software') : 6
+('ios', 'properly', 'handle') : 6
+('aka', 'bug', 'cscui') : 6
+('packet', 'device', 'successful') : 6
+('service', 'flowd', 'crash') : 6
+('discovered', 'd-link', 'dir-') : 6
+('layer', 'gateway', 'alg') : 6
+('common', 'industrial', 'protocol') : 6
+('industrial', 'protocol', 'cip') : 6
+('aka', 'bug', 'cscug') : 6
+('discovered', 'd-link', 'dsl-') : 6
+('dsl-', 'devices', 'authenticated') : 6
+('devices', 'authenticated', 'user') : 6
+('authenticated', 'user', 'pass') : 6
+('user', 'pass', 'long') : 6
+('pass', 'long', 'buffer') : 6
+('parameter', "'/userfs/bin/tcapi", 'binary') : 6
+("'/userfs/bin/tcapi", 'binary', 'diagnostics') : 6
+('binary', 'diagnostics', 'component') : 6
+('function', 'memory', 'corruption') : 6
+('memory', 'corruption', 'redirect') : 6
+('corruption', 'redirect', 'flow') : 6
+('redirect', 'flow', 'program') : 6
+('flow', 'program', 'execute') : 6
+('program', 'execute', 'arbitrary') : 6
+('reload', 'sending', 'crafted') : 6
+('ipv', 'aka', 'bug') : 6
+('qfx', 'qfx', 'versions') : 6
+('condition', 'cisco', 'ios') : 6
+('reload', 'crafted', 'sip') : 6
+('nfx', 'versions', 'prior') : 6
+('vlan', 'trunking', 'protocol') : 6
+('trunking', 'protocol', 'vtp') : 6
+('udp', 'port', 'aka') : 6
+('packet', 'forwarding', 'engine') : 6
+('device', 'releases', 'juniper') : 6
+('condition', 'vulnerabilities', 'improper') : 6
+('vulnerabilities', 'improper', 'parsing') : 6
+('improper', 'parsing', 'crafted') : 6
+('packets', 'processed', 'device') : 6
+('vsrx', 'versions', 'including') : 6
+('ios', 'software', 'support') : 6
+('engine', 'catalyst', 'supervisor') : 6
+('bug', 'ids', 'cscvf') : 5
+('cli', 'commands', 'arguments') : 5
+('vulnerability', 'nat', 'implementation') : 5
+('device', 'reload', 'transit') : 5
+('transit', 'traffic', 'aka') : 5
+('aka', 'bug', 'csctf') : 5
+('routing', 'process', 'crash') : 5
+('session', 'initiation', 'protocol') : 5
+('initiation', 'protocol', 'sip') : 5
+('authentication', 'administrators', 'requests') : 5
+('ios', 'nat', 'remote') : 5
+('reload', 'crafted', 'ipv') : 5
+('aka', 'bug', 'csctn') : 5
+('attacker', 'crash', 'http') : 5
+('crash', 'http', 'server') : 5
+('repeated', 'crashes', 'flowd') : 5
+('platforms', 'issue', 'juniper') : 5
+('packet', 'cisco', 'ios') : 5
+('broadband', 'edge', 'bbe') : 5
+('bypass', 'intended', 'access') : 5
+('intended', 'access', 'restrictions') : 5
+('service', 'juniper', 'networks') : 5
+('flowd', 'juniper', 'junos') : 5
+('junos', 'srx', 'devices') : 5
+('reload', 'hang', 'crafted') : 5
+('intrusion', 'prevention', 'ips') : 5
+('attacker', 'access', 'sensitive') : 5
+('control', 'protocol', 'sccp') : 5
+('junos', 'prior', 'srx') : 5
+('srx', 'series', 'prior') : 5
+('firmware', 'fwwwb_hab_beta', 'devices') : 5
+('bug', 'ids', 'cscvd') : 5
+('bug', 'ids', 'cscvg') : 5
+('junos', 'remote', 'authenticated') : 5
+('remote', 'attacker', 'gain') : 5
+('attacker', 'gain', 'unauthorized') : 5
+('aka', 'bug', 'cscuu') : 5
+('unspecified', 'vectors', 'aka') : 5
+('vectors', 'aka', 'bug') : 5
+('site', 'scripting', 'vulnerability') : 5
+('scripting', 'vulnerability', 'netscreen') : 5
+('vulnerability', 'netscreen', 'webui') : 5
+('netscreen', 'webui', 'juniper') : 5
+('webui', 'juniper', 'networks') : 5
+('juniper', 'networks', 'juniper') : 5
+('networks', 'juniper', 'netscreen') : 5
+('juniper', 'netscreen', 'firewall+vpn') : 5
+('netscreen', 'firewall+vpn', 'running') : 5
+('firewall+vpn', 'running', 'screenos') : 5
+('inject', 'html/javascript', 'content') : 5
+('html/javascript', 'content', 'management') : 5
+('content', 'management', 'session') : 5
+('management', 'session', 'users') : 5
+('session', 'users', 'including') : 5
+('users', 'including', 'administrator') : 5
+('including', 'administrator', 'enables') : 5
+('effectively', 'execute', 'commands') : 5
+('execute', 'commands', 'permissions') : 5
+('commands', 'permissions', 'administrator') : 5
+('permissions', 'administrator', 'issue') : 5
